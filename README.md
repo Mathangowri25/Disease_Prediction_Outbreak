@@ -136,6 +136,8 @@ Uses this model analyzes vocal and movement-related parameters **to detect Parki
 - **Heart Disease Prediction:** Uses a **Logistic Regression or Decision Tree model** trained on heart disease datasets.  
 - **Parkinson’s Disease Prediction:** Uses **SVM with a linear kernel**, trained on vocal features to detect Parkinson’s.  
 
+---
+
 ### **Future Enhancements**  
 - Adding more diseases for prediction (e.g., Cancer, Stroke).  
 - Implementing a feature to upload medical reports for automatic analysis.  
