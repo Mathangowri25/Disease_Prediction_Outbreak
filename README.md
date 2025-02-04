@@ -92,22 +92,22 @@ Takes input such as glucose level, BMI, insulin, and more to predict diabetes.
 Uses features like **age, cholesterol, blood pressure, chest pain type** to predict heart disease.  
 
 ### **3️⃣ Parkinson’s Disease Prediction**  
-Uses **voice-related biomarkers** to detect Parkinson’s disease.  
+Uses this model analyzes vocal and movement-related parameters **to detect Parkinson's disease early**, helping in timely diagnosis and management. 🚀🔬.  
 
 ---
 
 ## 🖼️ Screenshots  
-### 🔷 **Home Page**
-![Home Page](images/home.png)  
-
 ### 🟠 **Diabetes Prediction**
-![Diabetes Prediction](images/diabetes.png)  
+![Screenshot 2025-02-04 154637](https://github.com/user-attachments/assets/0ca00345-135b-4a53-9fdb-ec01370e5aed)
+
 
 ### ❤️ **Heart Disease Prediction**
-![Heart Disease Prediction](images/heart.png)  
+![Screenshot 2025-02-04 154822](https://github.com/user-attachments/assets/e9bd696e-5e96-42b6-98d7-5a7c114c466a)
+
 
 ### 🟢 **Parkinson’s Disease Prediction**
-![Parkinson’s Prediction](images/parkinsons.png)  
+![Screenshot 2025-02-04 154920](https://github.com/user-attachments/assets/4a7fc94f-fdfe-4613-b95d-8402199c86f2)
+
 
 ---
 
