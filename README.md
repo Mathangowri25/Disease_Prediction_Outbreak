@@ -5,9 +5,12 @@ This project is a **Disease Outbreak Prediction System** that leverages **machin
 
 ## 🚀 Features  
 - 🏥 **Predicts three diseases:**  
-  - 🟠 **Diabetes**  
-  - ❤️ **Heart Disease**  
-  - 🟢 **Parkinson's Disease**  
+  - 🟠 **Diabetes**
+     
+  - ❤️ **Heart Disease**
+    
+  - 🟢 **Parkinson's Disease**
+    
 - 📊 **Interactive Web Interface:** Built with **Streamlit** for ease of use.  
 - 📉 **Data Visualization:** Uses **Matplotlib** and **Seaborn** for insightful visualizations.  
 - ⚡ **Fast and Lightweight:** Runs efficiently using **scikit-learn** models.  
