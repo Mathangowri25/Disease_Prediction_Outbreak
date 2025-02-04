@@ -25,18 +25,46 @@ This project is a **Disease Outbreak Prediction System** that leverages **machin
 
 ---
 
-## 📂 Project Structure  
+Here's an **enhanced project structure** that clearly shows where each model is used and how the files are organized:  
+
+---
+## 📂 **Enhanced Project Structure**  
 ```
 📦 Disease Outbreak Prediction  
-│-- 📜 README.md  
-│-- 📜 app.py              # Streamlit Web App  
-│-- 📜 diabetes_model.sav  # Trained ML model for Diabetes  
-│-- 📜 heart_model.sav     # Trained ML model for Heart Disease  
-│-- 📜 Parkinsons_model.sav # Trained ML model for Parkinson's  
-│-- 📂 dataset             # Contains the dataset used for training  
-│-- 📂 images              # Visualization and demo images  
-│-- 📂 requirements.txt    # Dependencies list  
+│-- 📜 README.md              # Project Documentation  
+│-- 📜 app.py                 # Streamlit Web App (Main Application)  
+│-- 📂 models                 # Directory for ML Models  
+│   │-- 📜 diabetes_model.sav   # Trained Model for Diabetes to saved in pickle format 
+│   │-- 📜 heart_model.sav      # Trained Model for Heart Disease to saved in pickle format 
+│   │-- 📜 parkinsons_model.sav  # Trained Model for Parkinson’s Disease to saved in pickle format 
+│-- 📂 datasets               # Contains raw & processed datasets  
+│   │-- 📜 diabetes.csv         # Dataset for Diabetes Prediction  
+│   │-- 📜 heart.csv            # Dataset for Heart Disease Prediction  
+│   │-- 📜 parkinsons.csv       # Dataset for Parkinson’s Prediction  
+│-- 📂 images                 # Stores UI and result screenshots  
+│   │-- 📜 diabetes.png         # Diabetes Prediction Screenshot  
+│   │-- 📜 heart.png            # Heart Disease Prediction Screenshot  
+│   │-- 📜 parkinsons.png       # Parkinson’s Prediction Screenshot  
+│-- 📂 notebooks              # Jupyter Notebooks for Model Training  
+│   │-- 📜 diabetes_training.ipynb   # Notebook for training Diabetes model  
+│   │-- 📜 heart_training.ipynb      # Notebook for training Heart Disease model  
+│   │-- 📜 parkinsons_training.ipynb # Notebook for training Parkinson’s model  
+│-- 📜 requirements.txt        # Required dependencies  
+│-- 📜 .gitignore              # Files to ignore in Git  
 ```
+
+---
+
+### 🛠 **Key Enhancements**
+✔ **Models stored separately** (`models/`) for better organization.  
+✔ **Datasets directory** (`datasets/`) to store CSV files used for training.  
+✔ **Jupyter Notebooks folder** (`notebooks/`) for training documentation.  
+✔ **Utils folder** (`utils/`) for reusable scripts like preprocessing and visualization.  
+✔ **Screenshots stored** in the `images/` folder for documentation purposes.  
+
+---
+
+This structure keeps everything modular, making it easier to maintain and extend in the future. Would you like any more improvements? 😊
 
 ---
 
