@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** file for your project:  
-
----
-
 # 🏥 Prediction of Disease Outbreak  
 
 ## 📌 Overview  
@@ -94,17 +90,3 @@ Uses **voice-related biomarkers** to detect Parkinson’s disease.
 ✔ Deploy on cloud platforms like **AWS** or **Heroku**  
 
 ---
-
-## 👨‍💻 Author  
-🔹 **Your Name**  
-🔹 **GitHub**: [Your GitHub Link]  
-🔹 **LinkedIn**: [Your LinkedIn Profile]  
-
----
-
-## 📜 License  
-This project is **open-source** and available under the **MIT License**.  
-
----
-
-Would you like me to add anything specific, such as dataset details or more screenshots? 😊
